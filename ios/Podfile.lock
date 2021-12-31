@@ -1,0 +1,52 @@
+PODS:
+  - battery_info (0.0.1):
+    - Flutter
+  - battery_plus (1.0.0):
+    - Flutter
+  - device_info (0.0.1):
+    - Flutter
+  - Flutter (1.0.0)
+  - memory_info (0.0.1):
+    - Flutter
+  - path_provider_ios (0.0.1):
+    - Flutter
+  - url_launcher_ios (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - battery_info (from `.symlinks/plugins/battery_info/ios`)
+  - battery_plus (from `.symlinks/plugins/battery_plus/ios`)
+  - device_info (from `.symlinks/plugins/device_info/ios`)
+  - Flutter (from `Flutter`)
+  - memory_info (from `.symlinks/plugins/memory_info/ios`)
+  - path_provider_ios (from `.symlinks/plugins/path_provider_ios/ios`)
+  - url_launcher_ios (from `.symlinks/plugins/url_launcher_ios/ios`)
+
+EXTERNAL SOURCES:
+  battery_info:
+    :path: ".symlinks/plugins/battery_info/ios"
+  battery_plus:
+    :path: ".symlinks/plugins/battery_plus/ios"
+  device_info:
+    :path: ".symlinks/plugins/device_info/ios"
+  Flutter:
+    :path: Flutter
+  memory_info:
+    :path: ".symlinks/plugins/memory_info/ios"
+  path_provider_ios:
+    :path: ".symlinks/plugins/path_provider_ios/ios"
+  url_launcher_ios:
+    :path: ".symlinks/plugins/url_launcher_ios/ios"
+
+SPEC CHECKSUMS:
+  battery_info: 09f5c9ee65394f2291c8c6227bedff345b8a730c
+  battery_plus: 7851ab482c336dd101ae735dc9363f01e1223c7c
+  device_info: d7d233b645a32c40dfdc212de5cf646ca482f175
+  Flutter: 50d75fe2f02b26cc09d224853bb45737f8b3214a
+  memory_info: 4559bfc41a5fad956f88a9ba0e4f2f9944c767e1
+  path_provider_ios: 7d7ce634493af4477d156294792024ec3485acd5
+  url_launcher_ios: 02f1989d4e14e998335b02b67a7590fa34f971af
+
+PODFILE CHECKSUM: aafe91acc616949ddb318b77800a7f51bffa2a4c
+
+COCOAPODS: 1.10.1
